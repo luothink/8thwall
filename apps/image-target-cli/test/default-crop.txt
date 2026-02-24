@@ -1,6 +1,5 @@
-test/image.jpg
+test/love.jpg
 flat
-portrait
 y
 tmp
 default-crop
