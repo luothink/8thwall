@@ -470,7 +470,6 @@ const makeBaseApi = (
     const imageTargetData = imageTargets.map(it => ({
       name: it.name,
       type: it.type,
-      loadAutomatically: it.loadAutomatically,
       isRotated: it.isRotated,
       metaData: it.metadata,
       userMetadata: it.userMetadata,
